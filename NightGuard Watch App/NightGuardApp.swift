@@ -2,7 +2,7 @@
 //  NightGuardApp.swift
 //  NightGuard Watch App
 //
-//  Created by Sumar Seth on 1/2/25.
+//  Created by Samar Seth
 //
 
 import SwiftUI

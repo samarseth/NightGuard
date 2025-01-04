@@ -1,3 +1,11 @@
+//
+//  HealthKitManager.swift
+//  NightGuard
+//
+//  Created by Samar Seth
+//
+
+
 import Foundation
 import HealthKit
 
